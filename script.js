@@ -59,8 +59,3 @@ parseData
     console.error('Error:', error);
     console.log('error in catch')
   });
-
-
-    
-
-  
